@@ -33,4 +33,6 @@ Built an interactive Excel dashboard that gives HR managers a quick way to under
 ### 📍 Satisfaction by Work Hours  
 ![satisfaction-vs-workhours](https://github.com/user-attachments/assets/1c3d9ec7-39f3-41bb-99cd-65c1451889c9)
 
+### VI. Presentation
+[Skyline-Logistics-Presentation.pptx](https://github.com/user-attachments/files/21025971/Skyline-Logistics-Presentation.pptx)
 
