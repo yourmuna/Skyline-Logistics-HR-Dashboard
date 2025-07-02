@@ -24,5 +24,13 @@ This dashboard explores the following areas:
 Built an interactive Excel dashboard that gives HR managers a quick way to understand employee well-being, performance, and pay trends. It helps highlight problem areas and supports better decision-making.
 
 ## V. Screenshots 
+### 📍 Dashboard Overview  
+![the full dashboard view](https://github.com/user-attachments/assets/747eba81-59b6-4e30-872a-7bfd567b7088)
+### 📍 Dashboard with Slicers Applied
+![dashboard-with-filters](https://github.com/user-attachments/assets/ada7984d-5a32-44e5-9d85-bf2d6fef90bb)
+### 📍 Performance by Department 
+![performance-by-department](https://github.com/user-attachments/assets/2907a7e3-1aa0-47a3-9665-674cc254ae05)
+### 📍 Satisfaction by Work Hours  
+![satisfaction-vs-workhours](https://github.com/user-attachments/assets/1c3d9ec7-39f3-41bb-99cd-65c1451889c9)
 
-  
+
